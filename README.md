@@ -1,7 +1,7 @@
 # evaluation-work-samples
 Structured evaluation and review work samples demonstrating document analysis, standards-based assessment, and clear written findings.
-Title:
-Evaluation Sample: Enterprise Security System Design Review
+
+1.  Title: Evaluation Sample: Enterprise Security System Design Review
 Context:
 Conducted an evaluation of a proposed multi-facility system design to determine alignment with operational requirements and identified risk conditions. The review focused on system architecture, scalability, and practical implementation considerations.
 
@@ -32,7 +32,7 @@ Operational inefficiencies in proposed system management approach
 Output:
 Delivered a structured evaluation report summarizing findings, rationale, and recommended adjustments to improve system alignment and performance.
 
-4. multi-site-review_sample.md
+2. multi-site-review_sample.md
 Title:
 Multi-Site Evaluation Sample: Standardization and System Consistency Review
 
@@ -51,7 +51,7 @@ Alignment with operational requirements
 Maintainability and lifecycle considerations
 Standardization potential
 
-Evaluation Process:
+3. Evaluation Process:
 Reviewed each site for consistency with defined or emerging standards
 Identified deviations and undocumented variations
 Assessed impact of inconsistencies on operations and maintenance
@@ -66,10 +66,7 @@ Opportunities to consolidate and standardize for improved performance
 Output:
 Produced a consolidated evaluation report including prioritized findings, recommended standardization strategies, and phased implementation considerations.
 
-5. standards-development_sample.md
-
-Title:
-Standards Development Sample: System Design and Implementation Guidelines
+4. Standards Development Sample: System Design and Implementation Guidelines
 
 Context:
 Developed standardized design and implementation guidelines to support consistent deployment across multiple facilities. The objective was to create a repeatable framework aligned with operational requirements and best practices.
@@ -94,12 +91,9 @@ Documented guidelines in a structured, accessible format
 Output:
 Produced a standardized set of guidelines and requirements to support consistent system implementation, procurement, and long-term management.
 
-6. review-checklist_sample.md
-Title:
-Sample Evaluation Checklist for Document and System Review
+6. Sample Evaluation Checklist for Document and System Review
 
-Purpose:
-This checklist illustrates a structured approach to reviewing technical or content-based materials for accuracy, completeness, and consistency.
+Purpose: This checklist illustrates a structured approach to reviewing technical or content-based materials for accuracy, completeness, and consistency.
 
 Checklist:
 Are all referenced elements clearly defined and consistently labeled?
