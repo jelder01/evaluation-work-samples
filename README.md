@@ -21,5 +21,3 @@ In addition, I have completed onboarding and task-based work on online platforms
 ## Notes
 All examples are generalized and do not contain proprietary or client-identifying information. These samples are intended to demonstrate approach, methodology, and communication style.
 ```
-
-Then delete anything else currently in the README below that text and commit the change.
