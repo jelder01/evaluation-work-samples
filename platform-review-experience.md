@@ -13,3 +13,6 @@ Followed task-specific instructions and applied defined criteria consistently
 Compared content elements to identify discrepancies or changes
 Provided clear, concise written responses supporting evaluation decisions
 Maintained attention to detail across repetitive or high-volume tasks
+
+Notes
+This is a generalized example based on professional experience. Details have been anonymized to remove any client-specific or sensitive information.
