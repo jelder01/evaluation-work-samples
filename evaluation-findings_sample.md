@@ -1,4 +1,4 @@
-# Evaluation-Findings_Sample.md
+# Evaluation-Findings Sample
 
 Conducted a structured evaluation of a proposed multi-site technical program to determine whether the documented approach aligned with operational requirements, consistency standards, and practical implementation needs.
 
