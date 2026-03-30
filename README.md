@@ -91,7 +91,7 @@ Documented guidelines in a structured, accessible format
 Output:
 Produced a standardized set of guidelines and requirements to support consistent system implementation, procurement, and long-term management.
 
-6. Sample Evaluation Checklist for Document and System Review
+5. Sample Evaluation Checklist for Document and System Review
 
 Purpose: This checklist illustrates a structured approach to reviewing technical or content-based materials for accuracy, completeness, and consistency.
 
